@@ -31,3 +31,5 @@ print(resp)
 print(resp.request.url)
 print(resp.json())
 
+print(resp.cookies())
+
